@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "android.testcase.party",
+    "children" : [ {
+      "name" : "test_partyActivity.TestPartyActivity.test_1",
+      "uid" : "98237aff1eb67a4f",
+      "parentUid" : "ac241f8128ac33a3b345670646ba4cd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571306291380,
+        "stop" : 1571306347534,
+        "duration" : 56154
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "android.testcase.party"
+  } ]
+}

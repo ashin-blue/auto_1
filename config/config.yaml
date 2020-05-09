@@ -1,0 +1,32 @@
+#appium 的，u2可以舍弃
+
+- desc: 设备名称_一加,appium启动服务端口号_4723 # -p Appium的主要端口，设备之间不能重复
+  port: 4730  # -bp Appium bootstrap端口，设备之间不能重复
+  udid : bf6151f1
+  bootstrapport: 4830    # -bp Appium bootstrap端口，设备之间不能重复
+  desired_caps:
+    platformName: Android
+    platformVersion: 7.1.1
+    deviceName: OnePlus5
+    udid : bf6151f1
+    appPackage : com.immomo.momo
+    appActivity: com.immomo.momo.android.activity.WelcomeActivity
+    unicodeDeyboard: true
+    resetKeyboard: true
+    noReset : true
+
+
+- desc: 设备名称_ywp,appium启动服务端口号_4724 # -p Appium的主要端口，设备之间不能重复
+  port: 4740  # -bp Appium bootstrap端口，设备之间不能重复
+  udid : 42b90c80
+  bootstrapport: 4840
+  desired_caps:
+    platformName: Android
+    platformVersion: 8.1.0
+    deviceName: OnePlus5
+    udid : 42b90c80
+    appPackage : com.immomo.momo
+    appActivity: com.immomo.momo.android.activity.WelcomeActivity
+    unicodeDeyboard: true
+    resetKeyboard: true
+    noReset : true

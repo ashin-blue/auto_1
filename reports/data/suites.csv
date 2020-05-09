@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Oct 17 17:58:11 CST 2019","Thu Oct 17 17:59:07 CST 2019","56154","","android.testcase.party","","android.testcase.party","test_partyActivity.TestPartyActivity.test_1","test_partyActivity.TestPartyActivity.test_1",""

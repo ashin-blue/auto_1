@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "ywp.local",
+    "children" : [ {
+      "name" : "9055-MainThread",
+      "children" : [ {
+        "name" : "test_partyActivity.TestPartyActivity.test_1",
+        "uid" : "98237aff1eb67a4f",
+        "parentUid" : "2c34ec4c48570f757f0f565c5950968c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571306291380,
+          "stop" : 1571306347534,
+          "duration" : 56154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2c34ec4c48570f757f0f565c5950968c"
+    } ],
+    "uid" : "f0939d1b16f314f1a4a63f3e54d38f02"
+  } ]
+}

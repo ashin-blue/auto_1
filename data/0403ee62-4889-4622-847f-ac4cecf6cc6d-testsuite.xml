@@ -1,0 +1,22 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1571306291380" stop="1571306347534">
+  <name>android.testcase.party</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1571306291380" status="passed" stop="1571306347534">
+      <name>test_partyActivity.TestPartyActivity.test_1</name>
+      <attachments>
+        <attachment source="144613ee-95d6-48a6-8ece-3bb3674ee526-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="66574ed4-4807-46c5-87ae-5eba6b20e55b-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试派对活动"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9055-MainThread"/>
+        <label name="host" value="ywp.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "android.testcase.party",
+    "children" : [ {
+      "name" : "test_partyActivity.TestPartyActivity.test_1",
+      "uid" : "98237aff1eb67a4f",
+      "parentUid" : "6ca5a6433a5bb51df5ef8a7424170e8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571306291380,
+        "stop" : 1571306347534,
+        "duration" : 56154
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6ca5a6433a5bb51df5ef8a7424170e8a"
+  } ]
+}

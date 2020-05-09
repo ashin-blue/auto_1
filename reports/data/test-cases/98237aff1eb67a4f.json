@@ -1,0 +1,86 @@
+{
+  "uid" : "98237aff1eb67a4f",
+  "name" : "test_partyActivity.TestPartyActivity.test_1",
+  "fullName" : "android.testcase.party.test_partyActivity.TestPartyActivity.test_1",
+  "historyId" : "bd8a375a1812ebdfb9be3401701541cf",
+  "time" : {
+    "start" : 1571306291380,
+    "stop" : 1571306347534,
+    "duration" : 56154
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "61052497bd1cc18d",
+      "name" : "Captured log setup",
+      "source" : "61052497bd1cc18d.txt",
+      "type" : "text/plain",
+      "size" : 145
+    }, {
+      "uid" : "ee10ef720f6f9428",
+      "name" : "Captured log call",
+      "source" : "ee10ef720f6f9428.txt",
+      "type" : "text/plain",
+      "size" : 585
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试派对活动"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "ywp.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "9055-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "android.testcase.party"
+  }, {
+    "name" : "testClass",
+    "value" : "android.testcase.party"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_partyActivity.TestPartyActivity.test_1"
+  }, {
+    "name" : "package",
+    "value" : "android.testcase.party"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "98237aff1eb67a4f.json",
+  "parameterValues" : [ ]
+}
